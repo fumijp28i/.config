@@ -1,0 +1,1 @@
+/Users/fumiya/.config/fisherman/fnm/functions/node.fish

@@ -1,0 +1,1 @@
+/Users/fumiya/.config/fisherman/spin/completions/spin.fish

@@ -1,0 +1,1 @@
+/Users/fumiya/.config/fisherman/getopts/getopts.fish

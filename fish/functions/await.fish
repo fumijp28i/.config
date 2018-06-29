@@ -1,0 +1,1 @@
+/Users/fumiya/.config/fisherman/await/functions/await.fish

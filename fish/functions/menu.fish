@@ -1,0 +1,1 @@
+/Users/fumiya/.config/fisherman/menu/menu.fish

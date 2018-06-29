@@ -1,0 +1,1 @@
+/Users/fumiya/.config/fisherman/ghq/completions/ghq.fish

@@ -1,0 +1,1 @@
+/Users/fumiya/.config/fisherman/pyenv/conf.d/pyenv.fish

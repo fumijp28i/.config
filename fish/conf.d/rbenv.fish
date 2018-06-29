@@ -1,0 +1,1 @@
+/Users/fumiya/.config/fisherman/rbenv/conf.d/rbenv.fish

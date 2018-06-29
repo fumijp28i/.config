@@ -1,0 +1,1 @@
+/Users/fumiya/.config/fisherman/fnm/conf.d/fnm.fish
